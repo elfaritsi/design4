@@ -688,7 +688,7 @@ section {
 }
 @media (max-width: 575px) {
   .features .icon-box {
-    height: 120px;
+    height: 150px;
   }
 }
 
